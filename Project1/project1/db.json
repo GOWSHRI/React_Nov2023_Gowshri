@@ -1,0 +1,54 @@
+{
+  "register":[
+    { "name":"gowshri",
+      "email":"22it055@gmail.com",
+      "password":"123456",
+      "conformpassword":"123456"  
+    },
+    { "name":"gresshma",
+      "email":"22it058@gmail.com",
+      "password":"88700",
+      "conformpassword":"88700"  
+    },
+    { "name":"harsshitha",
+      "email":"22it063@gmail.com",
+      "password":"39204",
+      "conformpassword":"39204"  
+    },
+    { "name":"ilamathi",
+      "email":"22it063@gmail.com",
+      "password":"39204",
+      "conformpassword":"39204"  
+    },
+    { "name":"vivi",
+      "email":"22it063@gmail.com",
+      "password":"39204",
+      "conformpassword":"39204"  
+    },
+    { "name":"gowshri",
+      "email":"vivi@gmail.com",
+      "password":"12345",
+      "conformpassword":"12345"  
+    },
+    { "name":"yamuna",
+      "email":"vivi@gmail.com",
+      "password":"12345",
+      "conformpassword":"12345"  
+    },
+    { "name":"yamuna1",
+      "email":"vivi@gmail.com",
+      "password":"12345",
+      "conformpassword":"12345"  
+    },
+    { "name":"yamuna1",
+      "email":"vivi@gmail.com",
+      "password":"12345",
+      "conformpassword":"12345"  
+    },
+    { "name":"vivi1",
+      "email":"vivi@gmail.com",
+      "password":"12345",
+      "conformpassword":"12345"  
+    }
+  ]
+}
